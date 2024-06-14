@@ -19,6 +19,9 @@ public class HomeController {
 	
 	private static final Logger logger = LoggerFactory.getLogger(HomeController.class);
 	
+	// 내용이 바뀌었습니다.
+	// commit
+	
 	/**
 	 * Simply selects the home view to render by returning its name.
 	 */
